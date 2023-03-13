@@ -1,3 +1,7 @@
+This is a old script that i wrote for my old server. It works with esx_skin and skinchanger. So this script is not ready for production use, more of a template for you guys do work more on. I also have a verision of this working for fivem-appearance. Will uppload it to github soon.
+
+
+
 Add this in data/items.lua
 ```lua
   ['outfit'] = {
