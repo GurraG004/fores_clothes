@@ -9,7 +9,7 @@ Add this in data/items.lua
 		}
 	},
 	['vaska'] = {
-		label = 'Väska',
+		label = 'Bag',
 		weight = 300,
 		stack = false,
 		client = {
@@ -17,7 +17,7 @@ Add this in data/items.lua
 		}
 	},
 	['vast'] = {
-		label = 'Väst',
+		label = 'Armour',
 		weight = 3000,
 		stack = false,
 		client = {
@@ -25,7 +25,7 @@ Add this in data/items.lua
 		}
 	},
 	['skor'] = {
-		label = 'Skor',
+		label = 'Shoees',
 		weight = 500,
 		stack = false,
 		client = {
@@ -50,7 +50,7 @@ Add this in data/items.lua
 	},
 
 	['glasses'] = {
-		label = 'Glasögon',
+		label = 'Glasses',
 		weight = 250,
 		stack = false,
 		client = {
@@ -66,7 +66,7 @@ Add this in data/items.lua
 		}
 	},
 	['hjalm'] = {
-		label = 'Hjälm',
+		label = 'Helmet',
 		weight = 1500,
 		stack = false,
 		client = {
@@ -74,7 +74,7 @@ Add this in data/items.lua
 		}
 	},
 	['klocka'] = {
-		label = 'Klocka',
+		label = 'Watch',
 		weight = 500,
 		stack = false,
 		client = {
@@ -82,7 +82,7 @@ Add this in data/items.lua
 		}
 	},
 	['oronaccessoarer'] = {
-		label = 'öron accessoarer',
+		label = 'Ears accessories',
 		weight = 100,
 		stack = false,
 		client = {
