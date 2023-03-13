@@ -1,5 +1,5 @@
 Add this in data/items.lua
-	```lua
+```lua
   ['outfit'] = {
 		label = 'Outfit',
 		weight = 4000,
@@ -88,7 +88,8 @@ Add this in data/items.lua
 		client = {
 			usetime = 1500
 		}
-	},	```
+	},	
+```
 
 And this is modules/items/client.lua
 
